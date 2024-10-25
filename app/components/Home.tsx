@@ -35,7 +35,7 @@ export default function HomePage() {
 <div className='w-auto h-52 p-32'>
   <p className='text-5xl text-white -mt-7'>
     "Blissful Blooms, 
-    <br/>Delivered to Your Door –Fresh Flowers, 
+    <br/>Delivered to Your Door Fresh Flowers, 
     <br/>Handpicked for Every 
     <br/>Special Moment!"</p>
 </div>

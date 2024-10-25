@@ -34,10 +34,10 @@ export default function HomePage() {
 <div className='flex justify-start'>
 <div className='w-auto h-52 p-32'>
   <p className='text-5xl text-white -mt-7'>
-    "Blissful Blooms, 
+    &quot;Blissful Blooms, 
     <br/>Delivered to Your Door Fresh Flowers, 
     <br/>Handpicked for Every 
-    <br/>Special Moment!"</p>
+    <br/>Special Moment!&quot;</p>
 </div>
 
 <div className='flex justify-end'>
